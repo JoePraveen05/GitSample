@@ -12,4 +12,14 @@ public class SampleGit {
 
 	}
 
+	private void tc3() {
+		System.out.println("test 3");
+
+	}
+
+	private void tc4() {
+		System.out.println("test 4");
+
+	}
+
 }
